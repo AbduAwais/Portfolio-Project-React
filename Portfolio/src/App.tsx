@@ -1,3 +1,5 @@
+/* https://www.youtube.com/watch?v=ifOJ0R5UQOc. */
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Home } from "./pages/Home";
 
